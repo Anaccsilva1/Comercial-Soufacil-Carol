@@ -17,9 +17,9 @@ const metasGerais = {
 // ==== DADOS DOS CONSULTORES ====
 const consultores = [
   { nome: "Leticia", contas: 9, receita: 6400, vendas: 328027, rentabilidade: 0 },
-  { nome: "Marcelo", contas: 7, receita: 4499, vendas: 168714, rentabilidade: 0 },
+  { nome: "Marcelo", contas: 8, receita: 4499, vendas: 168714, rentabilidade: 0 },
   { nome: "Gabriel", contas: 4, receita: 2255, vendas: 235017, rentabilidade: 0 },
-  { nome: "Glaucia", contas: 7, receita: 4599, vendas: 116061, rentabilidade: 0 }
+  { nome: "Glaucia", contas: 8, receita: 4599, vendas: 116061, rentabilidade: 0 }
 ];
 
 // ==== DADOS VENDAS MENSAL ====

@@ -10,21 +10,21 @@ const metasConsultores = {
 const metasGerais = {
   contas: 28,
   receita: 22000,
-  vendas: 1800000,
-  rentabilidade: 1043086
+  vendas: 1500000,
+  rentabilidade: 870000
 };
 
 // ==== DADOS DOS CONSULTORES ====
 const consultores = [
-  { nome: "Leticia", contas: , receita: , vendas: , rentabilidade: 0 },
-  { nome: "Marcelo", contas: , receita: , vendas: , rentabilidade: 0 },
-  { nome: "Gabriel", contas: , receita: , vendas: , rentabilidade: 0 },
-  { nome: "Glaucia", contas: , receita: , vendas: , rentabilidade: 0 }
+  { nome: "Leticia", contas: 9, receita: 6400, vendas: 393079, rentabilidade: 0 },
+  { nome: "Marcelo", contas: 8, receita: 4499, vendas: 171264, rentabilidade: 0 },
+  { nome: "Gabriel", contas: 4, receita: 2255, vendas: 237587, rentabilidade: 0 },
+  { nome: "Glaucia", contas: 8, receita: 4599, vendas: 118231, rentabilidade: 0 }
 ];
 
 // ==== DADOS VENDAS MENSAL ====
-const vendasMesPassado = 1092005 ;
-const vendasMesAtual = ;
+const vendasMesPassado = 858999;
+const vendasMesAtual = 900128;
 
 // ==== LOGIN ====
 
